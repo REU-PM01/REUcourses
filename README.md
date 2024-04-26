@@ -5,7 +5,7 @@
 | Лекция 1. Вводная лекция| [Конспект 1](https://colab.research.google.com/drive/1XBhE5lwOswPRN6gLSPzNFOHZVRJQ-mNi) | Илья Алексевнин |||
 | Лекция 2. Числовые и текстовые данные | [Конспект 2](https://colab.research.google.com/drive/1_Hj903GGxptZ9Idei5_75OdlmVYAoYtK?usp=sharing) | Ева Эюбова |||
 | Лекция 3. Логический тип данных| [Конспект 3] | Варвара Руденко |||
-| Лекция 4. Циклы | [Конспект 4] | 1 |||
+| Лекция 4. Циклы | [Конспект 4](https://colab.research.google.com/drive/1DXd-NiUErPdmnBjWqtGf0A14MPoNJyjP?usp=sharing) | Герман Богомолов |||
 | Лекция 5. Итерируемые объекты. Списки | [Конспект 5](https://colab.research.google.com/drive/1hZ1ks-upUGHzq3Z1M7yOY6gTKAkMsqxR?usp=sharing) | Владислав Севостьянов |||
 | Лекция 6. Срезы списков | [Конспект 6](https://colab.research.google.com/drive/1A5ySSCqEmy9LkUptzF8nIdajMTl0yoLh#scrollTo=QfPj6vDg_hpg) | Илья Шубернецкий |||
 | Лекция 7. Работа с текстовой информацией | [Конспект 7] | 1 |||
