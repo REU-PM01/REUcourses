@@ -40,5 +40,6 @@ Python предлагает ряд преимуществ для изучающ�
 | Лекция 9. Модули, пакеты (библиотеки) | [Конспект 9](https://colab.research.google.com/drive/1B8qrUa_-fAJgCIIkwNu4MDjOQZZydNt8#scrollTo=CQjqEfbYi9oD) | Даниил Цуненко |||
 | Лекция 10. Множества и словари | [Конспект 10](https://colab.research.google.com/drive/1zzgM-QtZWY6JHDhxJI2W9uZNHIBSYoJY?usp=sharing) | Виктория Мачалкина |||
 | Лекция 11. Словарь и операции с ним | [Конспект 11](https://colab.research.google.com/drive/1pdAplGdbz61RH0O9uWgbLowZjCQM-iby?usp=sharing) | Дарья Господарикова, Анастасия Ануфриева |||
-| Лекция 12. Чат-бот в Telegram | [Конспект 13] | 1 |||
-| Лекция 13. Реализация блокчейна | [Конспект 14](https://colab.research.google.com/drive/1HaWX3lm_Tss8s2cK8JAodIo3TV_EZpuO#scrollTo=Vdx2YAIXpXXD) | Роман Холопов |||
+| Лекция 12. Чат-бот в Telegram | [Конспект 12] | 1 |||
+| Лекция 13. Реализация блокчейна | [Конспект 13] (https://colab.research.google.com/drive/1HaWX3lm_Tss8s2cK8JAodIo3TV_EZpuO#scrollTo=Vdx2YAIXpXXD) | Роман Холопов |||
+| Лекция 14. Парсинг |[Конспект 14](https://colab.research.google.com/drive/1o7hS7eMHALaEDYYPXPmKiG5ma1glmbsr?usp=sharing)
