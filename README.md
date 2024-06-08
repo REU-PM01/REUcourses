@@ -29,7 +29,7 @@ Python предлагает ряд преимуществ для изучающ�
 
 Название лекции | Конспект | Автор | Задачи для повторения материала |
 |:----:|----|:----:|----|
-| Лекция 1. Вводная лекция| [Конспект 1](https://colab.research.google.com/drive/1XBhE5lwOswPRN6gLSPzNFOHZVRJQ-mNi) | Илья Алексевнин | ||
+| Лекция 1. Вводная лекция| [Конспект 1](https://colab.research.google.com/drive/1XBhE5lwOswPRN6gLSPzNFOHZVRJQ-mNi) | Илья Алексевнин | [задание 1](https://colab.research.google.com/drive/1qoarHVy3bK1pSJ4z7G6Zs8kGciLMIpyv?usp=sharing) |||
 | Лекция 2. Числовые и текстовые данные | [Конспект 2](https://colab.research.google.com/drive/1_Hj903GGxptZ9Idei5_75OdlmVYAoYtK?usp=sharing) | Ева Эюбова |[задание №2](https://colab.research.google.com/drive/1Sox7lv7xxEHSoyAGvhQg7xmQ5XBE-gzL)|||
 | Лекция 3. Логический тип данных| [Конспект 3](https://colab.research.google.com/drive/1rJrQtkN8uM9GxoGcK9x6kPoRPi-2vXda?usp=sharing) | Лыкова Мария |||
 | Лекция 4. Циклы | [Конспект 4](https://colab.research.google.com/drive/1DXd-NiUErPdmnBjWqtGf0A14MPoNJyjP?usp=sharing) | Герман Богомолов |||
